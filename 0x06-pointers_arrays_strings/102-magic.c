@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
- * print_number - print numbers chars
- * @n: integer params
- * Return: 0
- */
+
 int main(void)
 {
 	int n;
